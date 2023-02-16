@@ -153,3 +153,4 @@ cython_debug/
 
 # Archive of old files
 archive/
+.archive/
