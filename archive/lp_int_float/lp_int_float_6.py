@@ -14,3 +14,14 @@
 ''' String to Integer '''
 a = int(float('3.14'))
 print(a)
+'''
+Similarities an differences
+Mathematical operations
+Compound assignment operators
+Order of mathematical operations
+Comparators
+Float accuracy
+Casting
+Useful math functions
+Big numbers
+'''

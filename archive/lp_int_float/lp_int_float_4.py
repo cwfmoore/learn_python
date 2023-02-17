@@ -7,6 +7,6 @@
     AS  - Addition and Subtraction      3 + 2
 '''
 
-a = (12) / 6
+a = (3 * 2)**2 / 6
 
 print(a)
