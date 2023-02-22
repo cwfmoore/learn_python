@@ -12,4 +12,4 @@ This repository is built using Python version 3.11.1. Make sure you have Python 
 
 To get started with this repository, simply clone the repository to your local machine and navigate to the root directory. From there, you can explore the resources and use the materials provided to learn Python.
 
-Thank you for visiting the Learn Python repository! We hope that this repository, along with the Craig Moore - Data Science YouTube channel, will help you learn Python and become a better programmer. If you have any questions or comments, please don't hesitate to contact us.
+Thank you for visiting the Learn Python repository! We hope that this repository, along with the Craig Moore - Data Science YouTube channel, will help you learn Python and become a better programmer. If you have any questions or comments, please don't hesitate to contact me.
